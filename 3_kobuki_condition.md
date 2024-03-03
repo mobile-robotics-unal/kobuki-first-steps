@@ -25,10 +25,25 @@ The next step in the review was to verify the physical state of each part of the
 
 The base of the kobuki appears to be in good condition, with no significant dents or scratches. The external support structure coupled to the robotic base does not present corrosion or deviations on the structural bars, nor are fastening elements missing. Likewise, the elements such as traction wheels, free wheels and the two identified bumpers are assembled according to what is indicated in the robot manual without alterations to it.
 
-* Isometric top view _(D. Stonier, 2020)_.
-<img align="center" width="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/4e8fb1ca-c8e1-4fcf-bc12-22c30b3ee0d3">  
+* Isometric top and bottom view _(D. Stonier, 2020)_.
 
-* Isometric bottom view _(D. Stonier, 2020)_.
-<img align="center" width="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/36fc64d3-e5af-419d-bfd5-8f964fa02e62">  
+<p align="center">
+<img align="center" height="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/4e8fb1ca-c8e1-4fcf-bc12-22c30b3ee0d3">  
+<img align="center" height="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/36fc64d3-e5af-419d-bfd5-8f964fa02e62">  
+<p/>
 
 ## Wheels and suspension mechanism condition.
+
+Both differential drive wheels are in optimal conditions; through visual inspection, no deviations or wear are observed. However, considerable surface wear occurs on the two removable freewheels.
+
+<p align="center">
+<img align="center" width="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/ed08be8c-1248-41aa-9dd8-2677f5d6fa8c"> 
+  <img align="center" width="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/0c5e3042-bf97-4050-bac7-c6232042a127"> 
+<p/>
+
+The suspension of each differential wheel...
+
+<p align="center">
+<img align="center" width="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/a5401bc9-a39d-4c14-8760-ebd8b9deb941"> 
+<img align="center" width="250" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/e3912ccf-45ff-4c00-95eb-96f07f72908c"> 
+<p/>
