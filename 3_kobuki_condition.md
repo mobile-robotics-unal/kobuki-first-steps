@@ -9,11 +9,15 @@ One of the most important aspects before working with a robot such as this, is t
 * Robot chasis.
 * Motors.
 * Suspension mechanisms.
-* Control system ( in this case the team did a test which is explained in a forward section of this section).
+* Control system.
 * Sensors (firstly physical conditions).
 
-The team did a general check up of the ***Kobuki bot***, the porpouse of the general check up was identify each one of the sections of the robot as chasis, motors, sensors, etc.
+The team did a general check up of the ***Kobuki bot - Luna***, the porpouse of the general check up was identify each section of the robot as chasis, motors, sensors, etc. In the next image, the reader of this repositorie could apreciate the general condition of ***Kobuki bot - Luna***.
 
 <p align="center">
-  <img  height="300" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/23eb0305-3fc8-49d4-a029-ee74bd10790b">
-</p>
+  <img align="center" height="300" src="https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/23eb0305-3fc8-49d4-a029-ee74bd10790b">
+<p/>
+
+The next step in the review was to verify the physical state of each part of the robot and also if the ***Kobuki - Lunabot*** could move with its default program, for this it was necessary to run a default walking mode built into the Kobuki firmware _(R. Ramirez, P. Cárdenas, 2024)_.
+
+## Chasis condition.
