@@ -68,3 +68,8 @@ https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/41e3
 
 The previous activities were carried out in the _"Automation and Machines Laboratory"_, and the _" 
 Machines and Tools"_ Laboratory of ***Universidad Nacional de Colombia - Sede Bogotá*** (Mechanical and Mechatronics Engineeering Department).
+
+## References
+1. Ramírez, Ricardo and Cárdenas, Pedro. _Guía 2a Introducción al framework ROS_. Fundamentos de robótica móvil. Departamento de Ingeniería Mecánica y Mecatrónica. Universidad Nacional de Colombia. Bogotá, Colombia, 2024.
+2. Ramírez, Ricardo and Cárdenas, Pedro. _Guía 2b Introducción al robot Kobuki_. Fundamentos de robótica móvil. Departamento de Ingeniería Mecánica y Mecatrónica. Universidad Nacional de Colombia. Bogotá, Colombia, 2024.
+3. Daniel Stonier. _Kobuki Documentation (Release 1.0.0)_. 2020.
