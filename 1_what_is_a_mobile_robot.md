@@ -42,6 +42,7 @@ Mobile robots are classified according to the work enviroment and the type of de
     - _E.g_: Eric (1928), Hexapod, Asimo, AIBO, etc.
 
 A classification of mobile robots is shown in the next image (Robot Park, 2016)
+
 ![7279 1653223058](https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/fb6142e5-eae1-4493-8dc9-5e06ee062218)
 
 ## References

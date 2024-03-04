@@ -61,13 +61,7 @@ To test the default program, the following steps were performed:
 1. The robot was placed on the ground, ensuring that there were areas of fall or unevenness.
 2. The power button was pressed.
 3. Approximately 3 seconds later, button B0 is held down for 2 seconds. After 2 seconds the robotic base will execute the default program.
-Below, there is a brief video of the robot after connecting via USB and using the ROS Noetic framework. The status of the sensors was reviewed and a program was executed which allowed the system to be teleoperated with the computer keyboard.
-As a clarification, this is part of the development of laboratory guide 2b.
 
-https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/41e3059c-2848-4468-af7e-c6878c1aeeb2
-
-The previous activities were carried out in the _"Automation and Machines Laboratory"_, and the _" 
-Machines and Tools"_ Laboratory of ***Universidad Nacional de Colombia - Sede Bogotá*** (Mechanical and Mechatronics Engineeering Department).
 
 ## References
 1. Ramírez, Ricardo and Cárdenas, Pedro. _Guía 2a Introducción al framework ROS_. Fundamentos de robótica móvil. Departamento de Ingeniería Mecánica y Mecatrónica. Universidad Nacional de Colombia. Bogotá, Colombia, 2024.

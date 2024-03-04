@@ -25,7 +25,7 @@ These packages are composed by the following [4](#references):
 
 Despite a [repo](#references) showing support for the platform in ROS2, it is not active and lacking documentation so the it not well supported for the latest distros. 
 
-
+A different open source implentation of the serial protocol was founded but it was not possible to bet over it´s cuality or completes however it is worth it to point to this resource [6](#references). 
 
 ## References
 1. [kobuki Documentation](https://kobuki.readthedocs.io/_/downloads/en/stable/pdf/)
@@ -33,3 +33,4 @@ Despite a [repo](#references) showing support for the platform in ROS2, it is no
 3. [kobuki ROS wrapper repo](https://github.com/yujinrobot/kobuki)
 4. [kobuki ROS documentation](https://wiki.ros.org/kobuki)
 5. [kobuki ROS2 repo](https://github.com/kobuki-base/kobuki_ros?tab=readme-ov-file)
+6. [kobuki serial communcation driver](https://github.com/wuhanstudio/kobuki)
