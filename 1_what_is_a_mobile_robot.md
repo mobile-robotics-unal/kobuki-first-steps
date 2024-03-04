@@ -40,3 +40,11 @@ Mobile robots are classified according to the work enviroment and the type of de
     - _E.g_: Kobuki, EV3, Grey Walter's tortoises, Kiwibot, etc. 
 *  ***Legged robots***.
     - _E.g_: Eric (1928), Hexapod, Asimo, AIBO, etc.
+
+A classification of mobile robots is shown in the next image (Robot Park, 2016)
+![7279 1653223058](https://github.com/mobile-robotics-unal/kobuki-first-steps/assets/161974694/fb6142e5-eae1-4493-8dc9-5e06ee062218)
+
+## References
+1. Ramírez, Ricardo. _Robots móviles_. Fundamentos de robótica móvil. Departamento de Ingeniería Mecánica y Mecatrónica. Universidad Nacional de Colombia. Bogotá, Colombia, 2024.
+2. https://devopedia.org/mobile-robot#Robot-Park-2016 . Consultado: 03/03/2024
+3. https://www.robotpark.com/All-Types-Of-Robots. Consultado: 03/03/2024
