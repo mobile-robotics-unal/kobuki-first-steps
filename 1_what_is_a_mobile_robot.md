@@ -18,3 +18,25 @@ These are the basic features that a mobile robot must incorporate to optimize th
   
 These characteristics are essential, since they allow a efficient control of the tasks performed by the robot, check the status of the robot and, if it is necessary, an emergency stop and even remote operation of the robot in case of a failure. These activities are possible by implementing the appropriate firmware, controllers, sensors, mechanisms, and different types of hardware.
 
+## Basic parts of a mobile robot.
+A mobile robot mainly consists of five set of components such as:
+
+* ****Controllers***: This component receives signals from sensors, actuators and processes different robot programming codes. It is responsible for processing control, compensation and disturbance variables in order to have an optimal operation of the system.
+* ***Chassis***: It is the structure on which the electronic and mechanical components of the robot are assembled.
+* ***Motors***.
+* ***Sensors***: They are devices which allow the controller to obtain electrical signals from the interaction of the robot with the environment that surrounds it.
+*  ***Power source***.
+
+## Clasification of mobile robots.
+Mobile robots are classified according to the work enviroment and the type of devices used to do a task _(Devopedia, 2022)_ _(R. Ramirez, 2024)_.
+
+*  ***Unmanned Ground Vehicles (UGVs)***.
+    - _E.g_: Supply equipment robots used for military applications.
+*  ***Unmanned Aerial Vehicles (UAVs)***.
+    - _E.g_: Drones, Festo robotic seagull, etc.
+*  ***Autonomous Underwater Vehicles (AUVs)***.
+    - _E.g_: Investigation and exploration robots.
+*  ***Wheeled robots also known as "Autonomous Intelligent Vehicles" (AIVs)***.
+    - _E.g_: Kobuki, EV3, Grey Walter's tortoises, Kiwibot, etc. 
+*  ***Legged robots***.
+    - _E.g_: Eric (1928), Hexapod, Asimo, AIBO, etc.
