@@ -16,5 +16,5 @@ These are the basic features that a mobile robot must incorporate to optimize th
 * Fleet simulation software.
 * Integration with supervisory software.
   
-These characteristics are essential, since they allow a efficient control of the tasks performed by the robot, check the status of the robot and, if it is necessary, an emergency stop and even remote operation of the robot in case of a failure in the code to implement a task. These activities are possible by implementing the appropriate firmware, controllers, sensors, mechanisms, and different types of hardware.
+These characteristics are essential, since they allow a efficient control of the tasks performed by the robot, check the status of the robot and, if it is necessary, an emergency stop and even remote operation of the robot in case of a failure. These activities are possible by implementing the appropriate firmware, controllers, sensors, mechanisms, and different types of hardware.
 
